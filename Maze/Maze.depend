@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1538663104 source:c:\users\82026\desktop\1112\maze\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1538453194 c:\users\82026\desktop\1112\maze\stack.h
+	<stdio.h>
+	<stdlib.h>
+
